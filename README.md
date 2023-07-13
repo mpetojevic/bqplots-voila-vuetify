@@ -18,10 +18,13 @@ Following example would start our working directory with all files we are curren
 voila . --template=vuetify-default-tuwien
 ```
 
-# Starting `Histogram-Sliders.ipynb` example
+## Starting `Histogram-Sliders.ipynb` example
 
 To start provided example install all requirements listed in `requirements.txt`.
 
 ```
-
+pip install voila
+pip install voila-vuetify-template-tuwien
+pip install ipyvuetify
+pip install ipywidgets
 ```
