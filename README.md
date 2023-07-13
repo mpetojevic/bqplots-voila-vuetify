@@ -1,4 +1,4 @@
-# bqplots-voila-vuetify
+# Bqplots Voilà Vuetify Example
 
 This is an example notebook which shows usage of `ipyvuetify` and `ipywidgets` in order to create a responsive web application from your notebook using Voilà template `vuetify-default-tuwien`.
 
